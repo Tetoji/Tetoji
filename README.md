@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tetje from Germany 
-- 👀 I’m interested in coding, sports (especially in basketball) and gaming of course 
-- 🌱 I’m currently learning C, C#, but also HTML, CSS, Javascript, and began to look into jQuery
+- 👀 I’m interested in coding, sports (Weightlifting, Volleyball) and gaming of course 
+- 🌱 I’m currently learn Flutter and Dart and have made a degree as an Computer Science Expert (Subject Area: Software Developer)
 - 📫 You can reach me on Instagram: @txtjschlz, Snapchat: @ttjschlz or Discord: @Tetoji#5330
 
 <!---
