@@ -16,9 +16,9 @@ Others: `Jira`
 
 
 # ✨ Fun Facts
-- I do weightlifting, play Volleyball and video games
+- I do weightlifting, play volleyball and video games
 - Always admired the universe and its principles 
-- Curently using windows
+- Currently using windows
 
 # 📫 Contact 
 For a quick response, contact me on [Instagram](https://www.instagram.com/txtjschlz/) or [Discord](https://discordapp.com/users/ ) @Tetoji#5330
